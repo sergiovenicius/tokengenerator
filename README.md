@@ -6,8 +6,6 @@ When you run it (you can use VSCode, VisualStudio, etc), the API will use port 5
 
 You can access it through http://localhost:5000/swagger
 
-** I put both Controllers in the same app because I could not figure out yet how could 2 projects share the same database "in-memory". And I didn't want to open endpoints to share it.
-
 ## Description
 
 This project aims to register cards, generate a token for each one, and validate a token.
